@@ -1,6 +1,7 @@
 ### Hi there 
 
 ![gZJnF8uBFF2cy-LgHRk0ZR86e3iVKtWMQdZJbatwhXo](https://user-images.githubusercontent.com/67691138/198263403-193ec4e4-197e-4644-9e5d-1a056954e160.jpg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
