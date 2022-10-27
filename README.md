@@ -1,5 +1,8 @@
-### Hi there 👋
-Im still scratuching the surface in the world of Data Science and Data Engineering
+### Hi there 
+
+![gZJnF8uBFF2cy-LgHRk0ZR86e3iVKtWMQdZJbatwhXo](https://user-images.githubusercontent.com/67691138/198263403-193ec4e4-197e-4644-9e5d-1a056954e160.jpg)
+
+
 <!--
 **Ezzaldeen97/Ezzaldeen97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
